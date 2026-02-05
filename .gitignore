@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+logs/
+logs/archive/
+logs/screenshots/
+*.db
+.env
+web/.parcel-cache/
+web/dist/
+  api/_pycache_
+
+modules/_pycache_
+reports/_pycache_
+reports/graphs

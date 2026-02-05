@@ -1,0 +1,7 @@
+pynput
+psutil
+pygetwindow
+pywin32
+schedule
+matplotlib
+pillow
